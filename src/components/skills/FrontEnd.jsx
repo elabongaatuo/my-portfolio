@@ -9,6 +9,12 @@ const FrontEnd = () => {
                 <div className="skills__data">
                 <i class='bx bx-badge-check'></i>
                 <div>
+                    <h3 className="skills__name">HTML</h3>
+                </div>
+                </div>
+                <div className="skills__data">
+                <i class='bx bx-badge-check'></i>
+                <div>
                     <h3 className="skills__name">CSS</h3>
                 </div>
                 </div>
@@ -16,12 +22,6 @@ const FrontEnd = () => {
                 <i class='bx bx-badge-check'></i>
                 <div>
                     <h3 className="skills__name">JavaScript</h3>
-                </div>
-                </div>
-                <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
-                <div>
-                    <h3 className="skills__name">HTML</h3>
                 </div>
                 </div>
                 <div className="skills__data">

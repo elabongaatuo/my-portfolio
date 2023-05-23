@@ -1,6 +1,7 @@
 import Image1 from "../../assets/article1.webp";
 import Image2 from "../../assets/article2.webp";
 import Image3 from "../../assets/article3.webp";
+import Image4 from "../../assets/MySQLArticle.webp";
 
 export const Data = [
   {
@@ -26,5 +27,13 @@ export const Data = [
     description: "I took it personally. Really, I did. If you have been in the job hunting scene, there is nothing you get quite used to like… “despite your impressive portfolio, we decided to go with other candidates” .It sucks, especially when it’s sent via a no-reply email. Ouch!...",
     link: "https://medium.com/@elabongaatuo/a-beginners-guide-to-open-source-contribution-code-bit-85831ee69cd6",
     pubDate:	"2023-05-02"
+  },
+  {
+    id: 4,
+    image: Image4,
+    title: "How to Import Large CSV Files to MySQL",
+    description: "MySQL Workbench provides the Table Data Import Wizard ~ a simplified, sequential control for guiding users through file imports without having to write queries. It is quick and efficient for small file imports, however it can be tedious for large imports. The import(s) may take quite some time.",
+    link: "https://medium.com/@elabongaatuo/how-to-import-large-csv-files-to-mysql-7aaf981cd693",
+    pubDate:	"2023-05-13"
   },
 ];
